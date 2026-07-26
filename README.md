@@ -1,5 +1,12 @@
 # MemoryPack
 
+> [!IMPORTANT]
+> This development fork is archived. Its independent continuation is
+> [SharpPack](https://github.com/SunSi12138/SharpPack). For the original
+> MemoryPack project, use [Cysharp/MemoryPack](https://github.com/Cysharp/MemoryPack).
+> This repository remains available as read-only implementation and review
+> history.
+
 [![NuGet](https://img.shields.io/nuget/v/MemoryPack.svg)](https://www.nuget.org/packages/MemoryPack)
 [![GitHub Actions](https://github.com/Cysharp/MemoryPack/workflows/Build-Debug/badge.svg)](https://github.com/Cysharp/MemoryPack/actions)
 [![Releases](https://img.shields.io/github/release/Cysharp/MemoryPack.svg)](https://github.com/Cysharp/MemoryPack/releases)
